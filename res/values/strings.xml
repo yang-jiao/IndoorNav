@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Indoor Navigation</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="waiting_gps">Waiting For GPS &#8230;</string>
+    <string name="get_ready">Received GPS.Please Start Tracking</string>
+
+</resources>

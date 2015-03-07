@@ -1,0 +1,6 @@
+<resources>
+    <color name="screen_background">#333</color>
+    <color name="text_white">#fff</color>
+    <color name="transparent_black">#7f000000</color>
+	<color name="transparent_dark_black">#b3000000</color>
+</resources>
